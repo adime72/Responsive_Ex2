@@ -1,0 +1,4 @@
+.place_pic{
+    position: absolute;
+   top: calc(100% - 100px - 630px);
+}
